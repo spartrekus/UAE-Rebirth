@@ -1,0 +1,45 @@
+!tex
+!begin
+
+!section Historical Story about UAE 
+Some years ago, UAE was known as the most famous software 
+for emulating AMIGA systems.
+
+Several forks were made, with one of the most famous E-UAE. 
+Originally E-UAE was for Experimental, but this 'E' became no longer
+necessary, since it gave excellent performances and it was sufficiently 
+stable.
+
+!section Why UAE Rebirth today?
+Have you probably heard of programming bloat?
+There are today numerous softwares under Unix-like system that produce
+an heavy use of CPU, memory,... without any funded reasons.
+Programmers have maybe be today too comfortable, relying on 
+ high-end languages and compilation compilation methods, which can produce 
+ bloat. 
+This is of course reasonable, since it allows to make programmes faster 
+and at reduced cost. 
+
+Versions of UAE are not bloated, of course, but the programmer intentions
+have been quite different.
+The first UAE versions were programmed in a manner that it could be ported on many systems.
+By making more some complex versions, e.g. E-UAE, it causes difficulties
+in compiling the emulator.
+Later, FS-UAE came with amazing graphical performans (e.g. OpenGL) and 
+nice frontend, but this is
+in detriment of the portability, bloat, and performances.
+
+!section Conclusion
+In my opinion, making use of large amount of memory and increase significantly CPU usage for emulating a system of more than 20 years old is not necessary.
+Furthermore, keep in mind automake, complex compilation methods and all heavy library dependencies is also not necessary. 
+
+
+
+
+
+
+ 
+
+
+!enddoc
+
